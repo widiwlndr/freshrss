@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://freshrss.github.io/FreshRSS/en/img/logo_freshrss.png" width="200" alt="FreshRSS Logo">
+  <img src="https://freshrss.github.io/FreshRSS/en/img/logo_freshrss.png" alt="FreshRSS Logo">
 </h1>
 
 <h1 align="center">FreshRSS</h1>
